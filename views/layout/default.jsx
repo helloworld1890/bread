@@ -5,6 +5,8 @@ function Default(html) {
     <html>
       <head>
         <title>{html.title || "Default"}</title>
+<link rel="shortcut icon" type="image/jpg" href="Favicon_Image_Location"/>
+
         <link
           rel="stylesheet"
           href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css"
