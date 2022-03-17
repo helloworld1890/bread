@@ -5,7 +5,7 @@ function Default(html) {
     <html>
       <head>
         <title>{html.title || "Default"}</title>
-<link rel="shortcut icon" type="image/jpg" href="Favicon_Image_Location"/>
+{/* <link rel="shortcut icon" type="image/jpg" href="Favicon_Image_Location"/> */}
 
         <link
           rel="stylesheet"
